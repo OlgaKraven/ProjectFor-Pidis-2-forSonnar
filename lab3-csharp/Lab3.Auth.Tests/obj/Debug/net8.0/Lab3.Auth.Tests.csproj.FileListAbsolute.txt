@@ -1,0 +1,8 @@
+C:\Users\gvadoskr\Desktop\ProjectFor-Pidis-2-forSonnar\lab3-csharp\Lab3.Auth.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_Lab3.Auth.Tests
+C:\Users\gvadoskr\Desktop\ProjectFor-Pidis-2-forSonnar\lab3-csharp\Lab3.Auth.Tests\obj\Debug\net8.0\Lab3.Auth.Tests.csproj.AssemblyReference.cache
+C:\Users\gvadoskr\Desktop\ProjectFor-Pidis-2-forSonnar\lab3-csharp\Lab3.Auth.Tests\obj\Debug\net8.0\MvcTestingAppManifest.json
+C:\Users\gvadoskr\Desktop\ProjectFor-Pidis-2-forSonnar\lab3-csharp\Lab3.Auth.Tests\obj\Debug\net8.0\Lab3.Auth.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gvadoskr\Desktop\ProjectFor-Pidis-2-forSonnar\lab3-csharp\Lab3.Auth.Tests\obj\Debug\net8.0\Lab3.Auth.Tests.AssemblyInfoInputs.cache
+C:\Users\gvadoskr\Desktop\ProjectFor-Pidis-2-forSonnar\lab3-csharp\Lab3.Auth.Tests\obj\Debug\net8.0\Lab3.Auth.Tests.AssemblyInfo.cs
+C:\Users\gvadoskr\Desktop\ProjectFor-Pidis-2-forSonnar\lab3-csharp\Lab3.Auth.Tests\obj\Debug\net8.0\Lab3.Auth.Tests.csproj.CoreCompileInputs.cache
+C:\Users\gvadoskr\Desktop\ProjectFor-Pidis-2-forSonnar\lab3-csharp\Lab3.Auth.Tests\obj\Debug\net8.0\Lab3.Auth.Tests.sourcelink.json
